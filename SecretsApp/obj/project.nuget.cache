@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVr0msj8MzRv1Q/wAJZGX/LtggOnzMxzdrJIADbkKIgwTBBc5FIfDXm+bOXL8+9f2OiEYu2wQZ/gyue5izk3PQ==",
+  "success": true,
+  "projectFilePath": "/Users/leor/Desktop/Projects/vaulttask/SecretsApp/SecretsApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/leor/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/leor/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512",
+    "/Users/leor/.nuget/packages/vaultsharp/1.13.0.1/vaultsharp.1.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
